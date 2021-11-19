@@ -1,8 +1,8 @@
 {
-    "PlayServer": {
+    "playserver": {
         "PlayServer": {
             "category": "Timeout",
-            "code": -33,
+            "code": -33
         }
     }
 }
